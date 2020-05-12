@@ -11,10 +11,12 @@ body {
     padding: 10px 50px;
     text-align: center;
     font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .title {
     font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
     margin-top: 1em;
     margin-bottom: 1em;
     color: #262626;
@@ -22,6 +24,7 @@ body {
 
 .content {
     margin-top: 10em;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .analyze {
@@ -31,12 +34,14 @@ body {
 .upload-label {
     padding: 10px;
     font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 .result-label {
     margin-top: 0.5em;
     padding: 10px;
     font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 button.choose-file-button {
